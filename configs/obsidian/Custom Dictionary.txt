@@ -1,0 +1,4 @@
+LSA
+R1
+R2
+checksum_v1 = 8929b42a09356efd3ad7deb378879f9c

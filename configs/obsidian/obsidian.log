@@ -1,0 +1,1152 @@
+2023-08-19 16:58:07 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-08-19 16:58:07 Checking for update using Github
+2023-08-19 16:58:08 Success.
+2023-08-19 16:58:08 Latest version is 1.3.7
+2023-08-19 16:58:08 App is up to date.
+2023-08-27 19:54:44 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-08-27 19:54:45 Checking for update using Github
+2023-08-27 19:54:46 Success.
+2023-08-27 19:54:46 Latest version is 1.3.7
+2023-08-27 19:54:46 App is up to date.
+2023-08-31 20:02:34 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-08-31 20:02:35 Checking for update using Github
+2023-08-31 20:02:41 Failed to check for update using Github (net::ERR_NAME_NOT_RESOLVED)
+2023-08-31 20:02:41 Checking for update using obsidian.md
+2023-08-31 20:02:45 Success.
+2023-08-31 20:02:45 Latest version is 1.4.5
+2023-08-31 20:02:45 Downloading update from https://releases.obsidian.md/download?url=https%3A%2F%2Fgithub.com%2Fobsidianmd%2Fobsidian-releases%2Freleases%2Fdownload%2Fv1.4.5%2Fobsidian-1.4.5.asar.gz
+2023-08-31 20:02:54 Verifying hash & signature. Size= 8267902
+2023-08-31 20:02:54 Saving file
+2023-08-31 20:02:55 Update complete.
+2023-08-31 21:02:36 Checking for update using Github
+2023-08-31 21:02:51 Failed to check for update using Github (net::ERR_NAME_NOT_RESOLVED)
+2023-08-31 21:02:51 Checking for update using obsidian.md
+2023-08-31 21:02:57 Success.
+2023-08-31 21:02:57 Latest version is 1.4.5
+2023-08-31 21:02:57 An update is already downloaded.
+2023-09-01 18:49:42 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-01 18:49:42 Checking for update using Github
+2023-09-01 18:49:42 Success.
+2023-09-01 18:49:42 Latest version is 1.4.5
+2023-09-01 18:49:42 App is up to date.
+2023-09-01 19:49:42 Checking for update using Github
+2023-09-01 19:49:42 Success.
+2023-09-01 19:49:42 Latest version is 1.4.5
+2023-09-01 19:49:42 App is up to date.
+2023-09-01 20:49:42 Checking for update using Github
+2023-09-01 20:49:42 Success.
+2023-09-01 20:49:42 Latest version is 1.4.5
+2023-09-01 20:49:42 App is up to date.
+2023-09-02 18:54:37 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-02 18:54:37 Checking for update using Github
+2023-09-02 18:54:38 Success.
+2023-09-02 18:54:38 Latest version is 1.4.5
+2023-09-02 18:54:38 App is up to date.
+2023-09-02 19:54:37 Checking for update using Github
+2023-09-02 19:54:37 Success.
+2023-09-02 19:54:37 Latest version is 1.4.5
+2023-09-02 19:54:37 App is up to date.
+2023-09-02 20:54:37 Checking for update using Github
+2023-09-02 20:54:37 Success.
+2023-09-02 20:54:37 Latest version is 1.4.5
+2023-09-02 20:54:37 App is up to date.
+2023-09-02 21:15:46 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-02 21:15:47 Checking for update using Github
+2023-09-02 21:15:47 Success.
+2023-09-02 21:15:47 Latest version is 1.4.5
+2023-09-02 21:15:47 App is up to date.
+2023-09-02 22:15:46 Checking for update using Github
+2023-09-02 22:15:46 Success.
+2023-09-02 22:15:46 Latest version is 1.4.5
+2023-09-02 22:15:46 App is up to date.
+2023-09-03 18:27:23 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-03 18:27:24 Checking for update using Github
+2023-09-03 18:27:24 Success.
+2023-09-03 18:27:24 Latest version is 1.4.5
+2023-09-03 18:27:24 App is up to date.
+2023-09-03 19:27:23 Checking for update using Github
+2023-09-03 19:27:24 Success.
+2023-09-03 19:27:24 Latest version is 1.4.5
+2023-09-03 19:27:24 App is up to date.
+2023-09-03 20:47:10 Checking for update using Github
+2023-09-03 20:47:10 Success.
+2023-09-03 20:47:10 Latest version is 1.4.5
+2023-09-03 20:47:10 App is up to date.
+2023-09-03 21:47:10 Checking for update using Github
+2023-09-03 21:47:10 Success.
+2023-09-03 21:47:10 Latest version is 1.4.5
+2023-09-03 21:47:10 App is up to date.
+2023-09-03 22:47:10 Checking for update using Github
+2023-09-03 22:47:10 Success.
+2023-09-03 22:47:10 Latest version is 1.4.5
+2023-09-03 22:47:10 App is up to date.
+2023-09-04 18:27:33 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-04 18:27:33 Checking for update using Github
+2023-09-04 18:27:34 Success.
+2023-09-04 18:27:34 Latest version is 1.4.5
+2023-09-04 18:27:34 App is up to date.
+2023-09-04 19:34:57 Checking for update using Github
+2023-09-04 19:34:57 Success.
+2023-09-04 19:34:57 Latest version is 1.4.5
+2023-09-04 19:34:57 App is up to date.
+2023-09-04 22:51:01 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-04 22:51:01 Checking for update using Github
+2023-09-04 22:51:07 Success.
+2023-09-04 22:51:07 Latest version is 1.4.5
+2023-09-04 22:51:07 App is up to date.
+2023-09-04 23:51:01 Checking for update using Github
+2023-09-04 23:51:01 Success.
+2023-09-04 23:51:01 Latest version is 1.4.5
+2023-09-04 23:51:01 App is up to date.
+2023-09-05 00:51:01 Checking for update using Github
+2023-09-05 00:51:01 Success.
+2023-09-05 00:51:01 Latest version is 1.4.5
+2023-09-05 00:51:01 App is up to date.
+2023-09-05 18:47:05 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-05 18:47:06 Checking for update using Github
+2023-09-05 18:47:06 Success.
+2023-09-05 18:47:06 Latest version is 1.4.5
+2023-09-05 18:47:06 App is up to date.
+2023-09-05 19:47:05 Checking for update using Github
+2023-09-05 19:47:05 Success.
+2023-09-05 19:47:05 Latest version is 1.4.5
+2023-09-05 19:47:06 App is up to date.
+2023-09-05 20:47:05 Checking for update using Github
+2023-09-05 20:47:06 Success.
+2023-09-05 20:47:06 Latest version is 1.4.5
+2023-09-05 20:47:06 App is up to date.
+2023-09-05 21:47:06 Checking for update using Github
+2023-09-05 21:47:06 Success.
+2023-09-05 21:47:06 Latest version is 1.4.5
+2023-09-05 21:47:06 App is up to date.
+2023-09-05 22:47:06 Checking for update using Github
+2023-09-05 22:47:06 Success.
+2023-09-05 22:47:06 Latest version is 1.4.5
+2023-09-05 22:47:06 App is up to date.
+2023-09-05 23:47:06 Checking for update using Github
+2023-09-05 23:47:06 Success.
+2023-09-05 23:47:06 Latest version is 1.4.5
+2023-09-05 23:47:06 App is up to date.
+2023-09-06 00:47:06 Checking for update using Github
+2023-09-06 00:47:06 Success.
+2023-09-06 00:47:06 Latest version is 1.4.5
+2023-09-06 00:47:06 App is up to date.
+2023-09-06 01:47:06 Checking for update using Github
+2023-09-06 01:47:06 Success.
+2023-09-06 01:47:06 Latest version is 1.4.5
+2023-09-06 01:47:06 App is up to date.
+2023-09-06 18:58:57 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-06 18:58:58 Checking for update using Github
+2023-09-06 18:59:03 Success.
+2023-09-06 18:59:03 Latest version is 1.4.5
+2023-09-06 18:59:03 App is up to date.
+2023-09-06 20:53:10 Checking for update using Github
+2023-09-06 20:53:10 Success.
+2023-09-06 20:53:10 Latest version is 1.4.5
+2023-09-06 20:53:10 App is up to date.
+2023-09-06 21:53:10 Checking for update using Github
+2023-09-06 21:53:11 Success.
+2023-09-06 21:53:11 Latest version is 1.4.5
+2023-09-06 21:53:11 App is up to date.
+2023-09-07 18:55:52 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-07 18:55:52 Checking for update using Github
+2023-09-07 18:55:53 Success.
+2023-09-07 18:55:53 Latest version is 1.4.5
+2023-09-07 18:55:53 App is up to date.
+2023-09-07 19:55:52 Checking for update using Github
+2023-09-07 19:55:53 Success.
+2023-09-07 19:55:53 Latest version is 1.4.5
+2023-09-07 19:55:53 App is up to date.
+2023-09-07 20:55:52 Checking for update using Github
+2023-09-07 20:55:52 Success.
+2023-09-07 20:55:52 Latest version is 1.4.5
+2023-09-07 20:55:52 App is up to date.
+2023-09-07 21:55:52 Checking for update using Github
+2023-09-07 21:55:53 Success.
+2023-09-07 21:55:53 Latest version is 1.4.5
+2023-09-07 21:55:53 App is up to date.
+2023-09-08 18:40:07 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-08 18:40:07 Checking for update using Github
+2023-09-08 18:40:08 Success.
+2023-09-08 18:40:08 Latest version is 1.4.5
+2023-09-08 18:40:08 App is up to date.
+2023-09-09 18:49:10 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-09 18:49:10 Checking for update using Github
+2023-09-09 18:49:11 Success.
+2023-09-09 18:49:11 Latest version is 1.4.5
+2023-09-09 18:49:11 App is up to date.
+2023-09-10 18:51:13 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-10 18:51:14 Checking for update using Github
+2023-09-10 18:51:14 Success.
+2023-09-10 18:51:14 Latest version is 1.4.5
+2023-09-10 18:51:14 App is up to date.
+2023-09-11 18:41:29 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.5.asar
+2023-09-11 18:41:30 Checking for update using Github
+2023-09-11 18:41:30 Success.
+2023-09-11 18:41:30 Latest version is 1.4.5
+2023-09-11 18:41:30 App is up to date.
+2023-09-11 19:41:29 Checking for update using Github
+2023-09-11 19:41:30 Success.
+2023-09-11 19:41:30 Latest version is 1.4.10
+2023-09-11 19:41:30 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.10/obsidian-1.4.10.asar.gz
+2023-09-11 19:41:34 Verifying hash & signature. Size= 8394463
+2023-09-11 19:41:35 Saving file
+2023-09-11 19:41:35 Update complete.
+2023-09-11 20:41:30 Checking for update using Github
+2023-09-11 20:41:30 Success.
+2023-09-11 20:41:30 Latest version is 1.4.10
+2023-09-11 20:41:30 An update is already downloaded.
+2023-09-11 21:41:30 Checking for update using Github
+2023-09-11 21:41:30 Success.
+2023-09-11 21:41:30 Latest version is 1.4.11
+2023-09-11 21:41:30 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.11/obsidian-1.4.11.asar.gz
+2023-09-11 21:41:35 Verifying hash & signature. Size= 8394463
+2023-09-11 21:41:35 Saving file
+2023-09-11 21:41:36 Update complete.
+2023-09-11 22:41:30 Checking for update using Github
+2023-09-11 22:41:30 Success.
+2023-09-11 22:41:30 Latest version is 1.4.11
+2023-09-11 22:41:30 An update is already downloaded.
+2023-09-12 18:43:13 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.11.asar
+2023-09-12 18:43:14 Checking for update using Github
+2023-09-12 18:43:14 Success.
+2023-09-12 18:43:14 Latest version is 1.4.12
+2023-09-12 18:43:14 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.12/obsidian-1.4.12.asar.gz
+2023-09-12 18:43:19 Verifying hash & signature. Size= 8394475
+2023-09-12 18:43:19 Saving file
+2023-09-12 18:43:20 Update complete.
+2023-09-12 19:43:14 Checking for update using Github
+2023-09-12 19:43:14 Success.
+2023-09-12 19:43:14 Latest version is 1.4.12
+2023-09-12 19:43:14 An update is already downloaded.
+2023-09-12 20:43:14 Checking for update using Github
+2023-09-12 20:43:14 Success.
+2023-09-12 20:43:14 Latest version is 1.4.12
+2023-09-12 20:43:14 An update is already downloaded.
+2023-09-12 21:43:14 Checking for update using Github
+2023-09-12 21:43:14 Success.
+2023-09-12 21:43:14 Latest version is 1.4.12
+2023-09-12 21:43:14 An update is already downloaded.
+2023-09-12 22:43:14 Checking for update using Github
+2023-09-12 22:43:14 Success.
+2023-09-12 22:43:14 Latest version is 1.4.12
+2023-09-12 22:43:14 An update is already downloaded.
+2023-09-13 18:29:17 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.12.asar
+2023-09-13 18:29:18 Checking for update using Github
+2023-09-13 18:29:18 Success.
+2023-09-13 18:29:18 Latest version is 1.4.12
+2023-09-13 18:29:18 App is up to date.
+2023-09-13 20:08:39 Checking for update using Github
+2023-09-13 20:08:40 Success.
+2023-09-13 20:08:40 Latest version is 1.4.12
+2023-09-13 20:08:40 App is up to date.
+2023-09-13 21:08:39 Checking for update using Github
+2023-09-13 21:08:40 Success.
+2023-09-13 21:08:40 Latest version is 1.4.12
+2023-09-13 21:08:40 App is up to date.
+2023-09-14 18:40:51 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.12.asar
+2023-09-14 18:40:52 Checking for update using Github
+2023-09-14 18:40:52 Success.
+2023-09-14 18:40:52 Latest version is 1.4.12
+2023-09-14 18:40:52 App is up to date.
+2023-09-14 19:40:51 Checking for update using Github
+2023-09-14 19:40:52 Success.
+2023-09-14 19:40:52 Latest version is 1.4.12
+2023-09-14 19:40:52 App is up to date.
+2023-09-14 20:40:51 Checking for update using Github
+2023-09-14 20:40:52 Success.
+2023-09-14 20:40:52 Latest version is 1.4.12
+2023-09-14 20:40:52 App is up to date.
+2023-09-14 21:40:52 Checking for update using Github
+2023-09-14 21:40:52 Success.
+2023-09-14 21:40:52 Latest version is 1.4.12
+2023-09-14 21:40:52 App is up to date.
+2023-09-15 18:50:50 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.12.asar
+2023-09-15 18:50:51 Checking for update using Github
+2023-09-15 18:50:51 Success.
+2023-09-15 18:50:51 Latest version is 1.4.13
+2023-09-15 18:50:51 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.13/obsidian-1.4.13.asar.gz
+2023-09-15 18:50:57 Verifying hash & signature. Size= 8394487
+2023-09-15 18:50:57 Saving file
+2023-09-15 18:50:57 Update complete.
+2023-09-15 19:50:50 Checking for update using Github
+2023-09-15 19:50:50 Success.
+2023-09-15 19:50:50 Latest version is 1.4.13
+2023-09-15 19:50:50 An update is already downloaded.
+2023-09-15 20:50:50 Checking for update using Github
+2023-09-15 20:50:50 Success.
+2023-09-15 20:50:50 Latest version is 1.4.13
+2023-09-15 20:50:50 An update is already downloaded.
+2023-09-15 21:50:50 Checking for update using Github
+2023-09-15 21:50:50 Success.
+2023-09-15 21:50:50 Latest version is 1.4.13
+2023-09-15 21:50:50 An update is already downloaded.
+2023-09-15 23:00:33 Checking for update using Github
+2023-09-16 18:44:26 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.13.asar
+2023-09-16 18:44:26 Checking for update using Github
+2023-09-16 18:44:27 Success.
+2023-09-16 18:44:27 Latest version is 1.4.13
+2023-09-16 18:44:27 App is up to date.
+2023-09-17 18:42:31 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.13.asar
+2023-09-17 18:42:31 Checking for update using Github
+2023-09-17 18:42:32 Success.
+2023-09-17 18:42:32 Latest version is 1.4.13
+2023-09-17 18:42:32 App is up to date.
+2023-09-17 19:42:31 Checking for update using Github
+2023-09-17 19:42:32 Success.
+2023-09-17 19:42:32 Latest version is 1.4.13
+2023-09-17 19:42:32 App is up to date.
+2023-09-17 20:42:32 Checking for update using Github
+2023-09-17 20:42:32 Success.
+2023-09-17 20:42:32 Latest version is 1.4.13
+2023-09-17 20:42:32 App is up to date.
+2023-09-17 21:42:32 Checking for update using Github
+2023-09-17 21:42:32 Success.
+2023-09-17 21:42:32 Latest version is 1.4.13
+2023-09-17 21:42:32 App is up to date.
+2023-09-18 18:01:37 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.13.asar
+2023-09-18 18:01:37 Checking for update using Github
+2023-09-18 18:01:37 Success.
+2023-09-18 18:01:37 Latest version is 1.4.13
+2023-09-18 18:01:37 App is up to date.
+2023-09-18 19:01:37 Checking for update using Github
+2023-09-18 19:01:37 Success.
+2023-09-18 19:01:37 Latest version is 1.4.13
+2023-09-18 19:01:37 App is up to date.
+2023-09-18 20:01:37 Checking for update using Github
+2023-09-18 20:01:37 Success.
+2023-09-18 20:01:37 Latest version is 1.4.13
+2023-09-18 20:01:37 App is up to date.
+2023-09-18 21:01:37 Checking for update using Github
+2023-09-18 21:01:37 Success.
+2023-09-18 21:01:37 Latest version is 1.4.13
+2023-09-18 21:01:37 App is up to date.
+2023-09-18 22:01:37 Checking for update using Github
+2023-09-18 22:01:37 Success.
+2023-09-18 22:01:37 Latest version is 1.4.13
+2023-09-18 22:01:37 App is up to date.
+2023-09-19 18:44:33 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.13.asar
+2023-09-19 18:44:34 Checking for update using Github
+2023-09-19 18:44:35 Success.
+2023-09-19 18:44:35 Latest version is 1.4.13
+2023-09-19 18:44:35 App is up to date.
+2023-09-19 19:44:34 Checking for update using Github
+2023-09-19 19:44:35 Success.
+2023-09-19 19:44:35 Latest version is 1.4.13
+2023-09-19 19:44:35 App is up to date.
+2023-09-19 20:44:34 Checking for update using Github
+2023-09-19 20:44:34 Success.
+2023-09-19 20:44:34 Latest version is 1.4.13
+2023-09-19 20:44:34 App is up to date.
+2023-09-19 21:44:34 Checking for update using Github
+2023-09-19 21:44:34 Success.
+2023-09-19 21:44:34 Latest version is 1.4.13
+2023-09-19 21:44:34 App is up to date.
+2023-09-20 18:28:50 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.13.asar
+2023-09-20 18:28:51 Checking for update using Github
+2023-09-20 18:28:51 Success.
+2023-09-20 18:28:51 Latest version is 1.4.13
+2023-09-20 18:28:51 App is up to date.
+2023-09-20 19:51:13 Checking for update using Github
+2023-09-21 18:53:42 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.13.asar
+2023-09-21 18:53:42 Checking for update using Github
+2023-09-21 18:53:43 Success.
+2023-09-21 18:53:43 Latest version is 1.4.13
+2023-09-21 18:53:43 App is up to date.
+2023-09-21 19:53:42 Checking for update using Github
+2023-09-21 19:53:42 Success.
+2023-09-21 19:53:42 Latest version is 1.4.13
+2023-09-21 19:53:42 App is up to date.
+2023-09-22 18:18:54 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.13.asar
+2023-09-22 18:18:54 Checking for update using Github
+2023-09-22 18:18:54 Success.
+2023-09-22 18:18:54 Latest version is 1.4.13
+2023-09-22 18:18:54 App is up to date.
+2023-09-22 19:18:54 Checking for update using Github
+2023-09-22 19:18:54 Success.
+2023-09-22 19:18:54 Latest version is 1.4.13
+2023-09-22 19:18:54 App is up to date.
+2023-09-22 20:18:54 Checking for update using Github
+2023-09-22 20:18:54 Success.
+2023-09-22 20:18:54 Latest version is 1.4.13
+2023-09-22 20:18:54 App is up to date.
+2023-09-22 21:18:54 Checking for update using Github
+2023-09-22 21:18:54 Success.
+2023-09-22 21:18:54 Latest version is 1.4.13
+2023-09-22 21:18:54 App is up to date.
+2023-09-22 22:18:54 Checking for update using Github
+2023-09-22 22:18:54 Success.
+2023-09-22 22:18:54 Latest version is 1.4.13
+2023-09-22 22:18:54 App is up to date.
+2023-09-22 23:18:54 Checking for update using Github
+2023-09-22 23:18:55 Success.
+2023-09-22 23:18:55 Latest version is 1.4.13
+2023-09-22 23:18:55 App is up to date.
+2023-09-23 00:18:54 Checking for update using Github
+2023-09-23 00:18:54 Success.
+2023-09-23 00:18:54 Latest version is 1.4.13
+2023-09-23 00:18:54 App is up to date.
+2023-09-23 01:18:54 Checking for update using Github
+2023-09-23 01:18:55 Success.
+2023-09-23 01:18:55 Latest version is 1.4.13
+2023-09-23 01:18:55 App is up to date.
+2023-09-23 02:18:54 Checking for update using Github
+2023-09-23 02:18:55 Success.
+2023-09-23 02:18:55 Latest version is 1.4.13
+2023-09-23 02:18:55 App is up to date.
+2023-09-23 17:38:11 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.13.asar
+2023-09-23 17:38:11 Checking for update using Github
+2023-09-23 17:38:12 Success.
+2023-09-23 17:38:12 Latest version is 1.4.13
+2023-09-23 17:38:12 App is up to date.
+2023-09-23 18:38:11 Checking for update using Github
+2023-09-23 18:38:11 Success.
+2023-09-23 18:38:11 Latest version is 1.4.13
+2023-09-23 18:38:11 App is up to date.
+2023-09-23 19:38:11 Checking for update using Github
+2023-09-23 19:38:11 Success.
+2023-09-23 19:38:11 Latest version is 1.4.13
+2023-09-23 19:38:11 App is up to date.
+2023-09-23 20:38:11 Checking for update using Github
+2023-09-23 20:38:11 Success.
+2023-09-23 20:38:11 Latest version is 1.4.13
+2023-09-23 20:38:11 App is up to date.
+2023-09-23 21:38:11 Checking for update using Github
+2023-09-23 21:38:12 Success.
+2023-09-23 21:38:12 Latest version is 1.4.13
+2023-09-23 21:38:12 App is up to date.
+2023-09-23 22:38:11 Checking for update using Github
+2023-09-23 22:38:12 Success.
+2023-09-23 22:38:12 Latest version is 1.4.13
+2023-09-23 22:38:12 App is up to date.
+2023-09-23 23:38:12 Checking for update using Github
+2023-09-23 23:38:12 Success.
+2023-09-23 23:38:12 Latest version is 1.4.13
+2023-09-23 23:38:12 App is up to date.
+2023-09-24 18:26:52 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.13.asar
+2023-09-24 18:26:53 Checking for update using Github
+2023-09-24 18:26:53 Success.
+2023-09-24 18:26:53 Latest version is 1.4.13
+2023-09-24 18:26:53 App is up to date.
+2023-09-24 19:26:52 Checking for update using Github
+2023-09-24 19:26:52 Success.
+2023-09-24 19:26:52 Latest version is 1.4.13
+2023-09-24 19:26:52 App is up to date.
+2023-09-24 20:26:52 Checking for update using Github
+2023-09-24 20:26:52 Success.
+2023-09-24 20:26:52 Latest version is 1.4.13
+2023-09-24 20:26:52 App is up to date.
+2023-09-25 18:34:15 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.13.asar
+2023-09-25 18:34:16 Checking for update using Github
+2023-09-25 18:34:16 Success.
+2023-09-25 18:34:16 Latest version is 1.4.13
+2023-09-25 18:34:16 App is up to date.
+2023-09-26 18:25:33 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.13.asar
+2023-09-26 18:25:34 Checking for update using Github
+2023-09-26 18:25:34 Success.
+2023-09-26 18:25:34 Latest version is 1.4.13
+2023-09-26 18:25:34 App is up to date.
+2023-09-27 18:42:12 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.13.asar
+2023-09-27 18:42:13 Checking for update using Github
+2023-09-27 18:42:14 Success.
+2023-09-27 18:42:14 Latest version is 1.4.14
+2023-09-27 18:42:14 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.14/obsidian-1.4.14.asar.gz
+2023-09-27 18:43:32 Verifying hash & signature. Size= 8393737
+2023-09-27 18:43:32 Saving file
+2023-09-27 18:43:33 Update complete.
+2023-09-28 18:14:50 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-09-28 18:14:50 Checking for update using Github
+2023-09-28 18:14:51 Success.
+2023-09-28 18:14:51 Latest version is 1.4.14
+2023-09-28 18:14:51 App is up to date.
+2023-09-29 18:35:53 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-09-29 18:35:54 Checking for update using Github
+2023-09-29 18:35:54 Success.
+2023-09-29 18:35:54 Latest version is 1.4.14
+2023-09-29 18:35:54 App is up to date.
+2023-09-29 19:35:53 Checking for update using Github
+2023-09-29 19:35:53 Success.
+2023-09-29 19:35:53 Latest version is 1.4.14
+2023-09-29 19:35:53 App is up to date.
+2023-09-29 21:36:33 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-09-29 21:36:33 Checking for update using Github
+2023-09-29 21:36:34 Success.
+2023-09-29 21:36:34 Latest version is 1.4.14
+2023-09-29 21:36:34 App is up to date.
+2023-09-30 18:08:44 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-09-30 18:08:45 Checking for update using Github
+2023-09-30 18:08:45 Success.
+2023-09-30 18:08:45 Latest version is 1.4.14
+2023-09-30 18:08:45 App is up to date.
+2023-09-30 19:08:44 Checking for update using Github
+2023-09-30 19:08:45 Success.
+2023-09-30 19:08:45 Latest version is 1.4.14
+2023-09-30 19:08:45 App is up to date.
+2023-09-30 20:08:45 Checking for update using Github
+2023-09-30 20:08:45 Success.
+2023-09-30 20:08:45 Latest version is 1.4.14
+2023-09-30 20:08:45 App is up to date.
+2023-10-01 18:04:12 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-01 18:04:13 Checking for update using Github
+2023-10-01 18:04:13 Success.
+2023-10-01 18:04:13 Latest version is 1.4.14
+2023-10-01 18:04:13 App is up to date.
+2023-10-02 18:45:07 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-02 18:45:08 Checking for update using Github
+2023-10-02 18:45:08 Success.
+2023-10-02 18:45:08 Latest version is 1.4.14
+2023-10-02 18:45:08 App is up to date.
+2023-10-02 19:45:07 Checking for update using Github
+2023-10-02 19:45:08 Success.
+2023-10-02 19:45:08 Latest version is 1.4.14
+2023-10-02 19:45:08 App is up to date.
+2023-10-02 20:45:07 Checking for update using Github
+2023-10-02 20:45:08 Success.
+2023-10-02 20:45:08 Latest version is 1.4.14
+2023-10-02 20:45:08 App is up to date.
+2023-10-02 20:55:01 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-02 20:55:02 Checking for update using Github
+2023-10-02 20:55:02 Success.
+2023-10-02 20:55:02 Latest version is 1.4.14
+2023-10-02 20:55:02 App is up to date.
+2023-10-03 18:07:10 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-03 18:07:11 Checking for update using Github
+2023-10-03 18:07:11 Success.
+2023-10-03 18:07:11 Latest version is 1.4.14
+2023-10-03 18:07:11 App is up to date.
+2023-10-03 19:07:11 Checking for update using Github
+2023-10-03 19:07:11 Success.
+2023-10-03 19:07:11 Latest version is 1.4.14
+2023-10-03 19:07:11 App is up to date.
+2023-10-03 20:07:11 Checking for update using Github
+2023-10-03 20:07:11 Success.
+2023-10-03 20:07:11 Latest version is 1.4.14
+2023-10-03 20:07:11 App is up to date.
+2023-10-03 21:07:11 Checking for update using Github
+2023-10-03 21:07:11 Success.
+2023-10-03 21:07:11 Latest version is 1.4.14
+2023-10-03 21:07:11 App is up to date.
+2023-10-03 22:07:11 Checking for update using Github
+2023-10-03 22:07:11 Success.
+2023-10-03 22:07:11 Latest version is 1.4.14
+2023-10-03 22:07:11 App is up to date.
+2023-10-03 23:07:11 Checking for update using Github
+2023-10-03 23:07:11 Success.
+2023-10-03 23:07:11 Latest version is 1.4.14
+2023-10-03 23:07:11 App is up to date.
+2023-10-04 18:46:20 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-04 18:46:20 Checking for update using Github
+2023-10-04 18:46:20 Success.
+2023-10-04 18:46:20 Latest version is 1.4.14
+2023-10-04 18:46:20 App is up to date.
+2023-10-04 23:48:44 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-04 23:48:45 Checking for update using Github
+2023-10-04 23:48:45 Success.
+2023-10-04 23:48:45 Latest version is 1.4.14
+2023-10-04 23:48:45 App is up to date.
+2023-10-05 18:56:47 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-05 18:56:48 Checking for update using Github
+2023-10-05 18:56:48 Success.
+2023-10-05 18:56:48 Latest version is 1.4.14
+2023-10-05 18:56:48 App is up to date.
+2023-10-05 20:27:50 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-05 20:27:50 Checking for update using Github
+2023-10-05 20:27:51 Success.
+2023-10-05 20:27:51 Latest version is 1.4.14
+2023-10-05 20:27:51 App is up to date.
+2023-10-06 19:39:53 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-06 19:39:54 Checking for update using Github
+2023-10-06 19:39:54 Success.
+2023-10-06 19:39:54 Latest version is 1.4.14
+2023-10-06 19:39:54 App is up to date.
+2023-10-06 20:39:53 Checking for update using Github
+2023-10-06 20:39:54 Success.
+2023-10-06 20:39:54 Latest version is 1.4.14
+2023-10-06 20:39:54 App is up to date.
+2023-10-06 21:39:53 Checking for update using Github
+2023-10-06 21:39:54 Success.
+2023-10-06 21:39:54 Latest version is 1.4.14
+2023-10-06 21:39:54 App is up to date.
+2023-10-06 22:39:53 Checking for update using Github
+2023-10-06 22:39:54 Success.
+2023-10-06 22:39:54 Latest version is 1.4.14
+2023-10-06 22:39:54 App is up to date.
+2023-10-06 23:39:54 Checking for update using Github
+2023-10-06 23:39:54 Success.
+2023-10-06 23:39:54 Latest version is 1.4.14
+2023-10-06 23:39:54 App is up to date.
+2023-10-07 00:39:54 Checking for update using Github
+2023-10-07 00:39:54 Success.
+2023-10-07 00:39:54 Latest version is 1.4.14
+2023-10-07 00:39:54 App is up to date.
+2023-10-07 01:39:54 Checking for update using Github
+2023-10-07 01:39:54 Success.
+2023-10-07 01:39:54 Latest version is 1.4.14
+2023-10-07 01:39:54 App is up to date.
+2023-10-07 18:31:13 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-07 18:31:14 Checking for update using Github
+2023-10-07 18:31:15 Success.
+2023-10-07 18:31:15 Latest version is 1.4.14
+2023-10-07 18:31:15 App is up to date.
+2023-10-08 18:48:32 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-08 18:48:33 Checking for update using Github
+2023-10-08 18:48:33 Success.
+2023-10-08 18:48:33 Latest version is 1.4.14
+2023-10-08 18:48:33 App is up to date.
+2023-10-08 18:56:53 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-08 18:56:53 Checking for update using Github
+2023-10-08 18:56:53 Success.
+2023-10-08 18:56:53 Latest version is 1.4.14
+2023-10-08 18:56:53 App is up to date.
+2023-10-09 18:37:53 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-09 18:37:54 Checking for update using Github
+2023-10-09 18:37:57 Success.
+2023-10-09 18:37:57 Latest version is 1.4.14
+2023-10-09 18:37:57 App is up to date.
+2023-10-09 19:37:53 Checking for update using Github
+2023-10-09 19:37:53 Success.
+2023-10-09 19:37:53 Latest version is 1.4.14
+2023-10-09 19:37:53 App is up to date.
+2023-10-09 20:37:53 Checking for update using Github
+2023-10-09 20:37:53 Success.
+2023-10-09 20:37:53 Latest version is 1.4.14
+2023-10-09 20:37:53 App is up to date.
+2023-10-10 09:59:58 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-10 09:59:59 Checking for update using Github
+2023-10-10 09:59:59 Success.
+2023-10-10 09:59:59 Latest version is 1.4.14
+2023-10-10 09:59:59 App is up to date.
+2023-10-10 10:59:58 Checking for update using Github
+2023-10-10 10:59:59 Success.
+2023-10-10 10:59:59 Latest version is 1.4.14
+2023-10-10 10:59:59 App is up to date.
+2023-10-10 18:45:33 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-10 18:45:34 Checking for update using Github
+2023-10-10 18:45:34 Success.
+2023-10-10 18:45:34 Latest version is 1.4.14
+2023-10-10 18:45:34 App is up to date.
+2023-10-11 09:04:09 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.4.14.asar
+2023-10-11 09:04:10 Checking for update using Github
+2023-10-11 09:04:10 Success.
+2023-10-11 09:04:10 Latest version is 1.4.14
+2023-10-11 09:04:10 App is up to date.
+2023-11-09 12:59:52 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-11-09 12:59:53 Checking for update using Github
+2023-11-09 12:59:53 Success.
+2023-11-09 12:59:53 Latest version is 1.4.16
+2023-11-09 12:59:53 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.4.16/obsidian-1.4.16.asar.gz
+2023-11-09 13:00:01 Verifying hash & signature. Size= 8394471
+2023-11-09 13:00:01 Saving file
+2023-11-09 13:00:02 Update complete.
+2023-12-13 20:24:05 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-12-13 20:24:05 Checking for update using Github
+2023-12-13 20:24:12 Success.
+2023-12-13 20:24:12 Latest version is 1.4.16
+2023-12-13 20:24:12 App is up to date.
+2023-12-27 16:57:17 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-12-27 16:57:18 Checking for update using Github
+2023-12-27 16:57:19 Success.
+2023-12-27 16:57:19 Latest version is 1.5.3
+2023-12-27 16:57:19 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/obsidian-1.5.3.asar.gz
+2023-12-27 16:57:27 Verifying hash & signature. Size= 8515395
+2023-12-27 16:57:27 Saving file
+2023-12-27 16:57:27 Update complete.
+2024-01-06 16:38:22 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.3.asar
+2024-01-06 16:38:23 Checking for update using Github
+2024-01-06 16:38:24 Success.
+2024-01-06 16:38:24 Latest version is 1.5.3
+2024-01-06 16:38:24 App is up to date.
+2024-02-04 21:14:47 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-02-04 21:14:48 Checking for update using Github
+2024-02-04 21:14:48 Success.
+2024-02-04 21:14:48 Latest version is 1.5.3
+2024-02-04 21:14:48 App is up to date.
+2024-02-05 19:39:33 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-02-05 19:39:34 Checking for update using Github
+2024-02-05 19:39:34 Success.
+2024-02-05 19:39:34 Latest version is 1.5.3
+2024-02-05 19:39:34 App is up to date.
+2024-02-05 20:39:33 Checking for update using Github
+2024-02-05 20:39:33 Success.
+2024-02-05 20:39:33 Latest version is 1.5.3
+2024-02-05 20:39:33 App is up to date.
+2024-02-05 21:39:33 Checking for update using Github
+2024-02-05 21:39:33 Success.
+2024-02-05 21:39:33 Latest version is 1.5.3
+2024-02-05 21:39:33 App is up to date.
+2024-02-05 22:39:33 Checking for update using Github
+2024-02-05 22:39:34 Success.
+2024-02-05 22:39:34 Latest version is 1.5.3
+2024-02-05 22:39:34 App is up to date.
+2024-02-05 23:39:33 Checking for update using Github
+2024-02-05 23:39:34 Success.
+2024-02-05 23:39:34 Latest version is 1.5.3
+2024-02-05 23:39:34 App is up to date.
+2024-02-06 00:39:34 Checking for update using Github
+2024-02-06 00:39:34 Success.
+2024-02-06 00:39:34 Latest version is 1.5.3
+2024-02-06 00:39:34 App is up to date.
+2024-02-06 17:55:03 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-02-06 17:55:03 Checking for update using Github
+2024-02-06 17:55:04 Success.
+2024-02-06 17:55:04 Latest version is 1.5.3
+2024-02-06 17:55:04 App is up to date.
+2024-02-06 18:55:03 Checking for update using Github
+2024-02-06 18:55:03 Success.
+2024-02-06 18:55:03 Latest version is 1.5.3
+2024-02-06 18:55:03 App is up to date.
+2024-02-14 21:39:51 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-02-14 21:39:52 Checking for update using Github
+2024-02-14 21:39:52 Success.
+2024-02-14 21:39:52 Latest version is 1.5.3
+2024-02-14 21:39:52 App is up to date.
+2024-02-14 22:39:51 Checking for update using Github
+2024-02-14 22:39:51 Success.
+2024-02-14 22:39:51 Latest version is 1.5.3
+2024-02-14 22:39:51 App is up to date.
+2024-02-14 23:39:51 Checking for update using Github
+2024-02-14 23:39:51 Success.
+2024-02-14 23:39:51 Latest version is 1.5.3
+2024-02-14 23:39:51 App is up to date.
+2024-02-15 00:39:51 Checking for update using Github
+2024-02-15 00:39:52 Success.
+2024-02-15 00:39:52 Latest version is 1.5.3
+2024-02-15 00:39:52 App is up to date.
+2024-02-28 19:53:04 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-02-28 19:53:05 Checking for update using Github
+2024-02-28 19:53:05 Success.
+2024-02-28 19:53:05 Latest version is 1.5.8
+2024-02-28 19:53:05 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.8/obsidian-1.5.8.asar.gz
+2024-02-28 19:53:11 Verifying hash & signature. Size= 8652806
+2024-02-28 19:53:12 Saving file
+2024-02-28 19:53:12 Update complete.
+2024-02-28 20:11:31 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.8.asar
+2024-02-28 20:11:31 Checking for update using Github
+2024-02-28 20:11:32 Success.
+2024-02-28 20:11:32 Latest version is 1.5.8
+2024-02-28 20:11:32 App is up to date.
+2024-02-28 20:13:02 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.8.asar
+2024-02-28 20:13:02 Checking for update using Github
+2024-02-28 20:13:02 Success.
+2024-02-28 20:13:02 Latest version is 1.5.8
+2024-02-28 20:13:02 App is up to date.
+2024-02-28 21:13:02 Checking for update using Github
+2024-02-28 21:13:02 Success.
+2024-02-28 21:13:02 Latest version is 1.5.8
+2024-02-28 21:13:02 App is up to date.
+2024-02-28 22:13:02 Checking for update using Github
+2024-02-28 22:13:03 Success.
+2024-02-28 22:13:03 Latest version is 1.5.8
+2024-02-28 22:13:03 App is up to date.
+2024-02-28 23:13:02 Checking for update using Github
+2024-02-28 23:13:03 Success.
+2024-02-28 23:13:03 Latest version is 1.5.8
+2024-02-28 23:13:03 App is up to date.
+2024-03-01 17:34:08 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.8.asar
+2024-03-01 17:34:09 Checking for update using Github
+2024-03-01 17:34:09 Success.
+2024-03-01 17:34:09 Latest version is 1.5.8
+2024-03-01 17:34:09 App is up to date.
+2024-03-01 18:34:08 Checking for update using Github
+2024-03-01 18:34:09 Success.
+2024-03-01 18:34:09 Latest version is 1.5.8
+2024-03-01 18:34:09 App is up to date.
+2024-03-01 19:34:09 Checking for update using Github
+2024-03-01 19:34:09 Success.
+2024-03-01 19:34:09 Latest version is 1.5.8
+2024-03-01 19:34:09 App is up to date.
+2024-03-01 20:34:09 Checking for update using Github
+2024-03-01 20:34:09 Success.
+2024-03-01 20:34:09 Latest version is 1.5.8
+2024-03-01 20:34:09 App is up to date.
+2024-03-01 21:34:09 Checking for update using Github
+2024-03-01 21:34:09 Success.
+2024-03-01 21:34:09 Latest version is 1.5.8
+2024-03-01 21:34:09 App is up to date.
+2024-03-01 22:34:09 Checking for update using Github
+2024-03-01 22:34:09 Success.
+2024-03-01 22:34:09 Latest version is 1.5.8
+2024-03-01 22:34:09 App is up to date.
+2024-03-01 23:24:17 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.8.asar
+2024-03-01 23:24:17 Checking for update using Github
+2024-03-01 23:24:23 Success.
+2024-03-01 23:24:23 Latest version is 1.5.8
+2024-03-01 23:24:23 App is up to date.
+2024-03-02 18:06:25 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.8.asar
+2024-03-02 18:06:26 Checking for update using Github
+2024-03-02 18:06:26 Success.
+2024-03-02 18:06:26 Latest version is 1.5.8
+2024-03-02 18:06:26 App is up to date.
+2024-03-04 04:21:24 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.8.asar
+2024-03-04 04:21:24 Checking for update using Github
+2024-03-04 04:21:24 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2024-03-04 04:21:24 Checking for update using obsidian.md
+2024-03-04 04:21:24 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2024-03-05 18:45:07 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.8.asar
+2024-03-05 18:45:07 Checking for update using Github
+2024-03-05 18:45:08 Success.
+2024-03-05 18:45:08 Latest version is 1.5.8
+2024-03-05 18:45:08 App is up to date.
+2024-03-05 19:45:07 Checking for update using Github
+2024-03-05 19:45:07 Success.
+2024-03-05 19:45:07 Latest version is 1.5.8
+2024-03-05 19:45:07 App is up to date.
+2024-03-05 20:45:07 Checking for update using Github
+2024-03-05 20:45:07 Success.
+2024-03-05 20:45:07 Latest version is 1.5.8
+2024-03-05 20:45:07 App is up to date.
+2024-03-05 20:50:46 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.8.asar
+2024-03-05 20:50:46 Checking for update using Github
+2024-03-05 20:50:46 Success.
+2024-03-05 20:50:46 Latest version is 1.5.8
+2024-03-05 20:50:46 App is up to date.
+2024-03-05 20:50:54 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.8.asar
+2024-03-05 20:50:54 Checking for update using Github
+2024-03-05 20:50:54 Success.
+2024-03-05 20:50:54 Latest version is 1.5.8
+2024-03-05 20:50:54 App is up to date.
+2024-03-09 20:38:46 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.8.asar
+2024-03-09 20:38:46 Checking for update using Github
+2024-03-09 20:38:47 Success.
+2024-03-09 20:38:47 Latest version is 1.5.8
+2024-03-09 20:38:47 App is up to date.
+2024-03-09 21:59:41 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.8.asar
+2024-03-09 21:59:41 Checking for update using Github
+2024-03-09 21:59:42 Success.
+2024-03-09 21:59:42 Latest version is 1.5.8
+2024-03-09 21:59:42 App is up to date.
+2024-03-10 11:40:15 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.8.asar
+2024-03-10 11:40:16 Checking for update using Github
+2024-03-10 11:40:16 Success.
+2024-03-10 11:40:16 Latest version is 1.5.8
+2024-03-10 11:40:16 App is up to date.
+2024-03-18 09:56:26 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-03-18 09:56:27 Checking for update using Github
+2024-03-18 09:56:27 Success.
+2024-03-18 09:56:27 Latest version is 1.5.8
+2024-03-18 09:56:27 App is up to date.
+2024-04-05 04:00:12 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-04-05 04:00:13 Checking for update using Github
+2024-04-05 04:00:35 Success.
+2024-04-05 04:00:35 Latest version is 1.5.12
+2024-04-05 04:00:35 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.12/obsidian-1.5.12.asar.gz
+2024-04-05 04:03:58 Verifying hash & signature. Size= 8781526
+2024-04-05 04:03:58 Saving file
+2024-04-05 04:03:58 Update complete.
+2024-04-08 17:37:41 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-04-08 17:37:41 Checking for update using Github
+2024-04-08 17:37:42 Success.
+2024-04-08 17:37:42 Latest version is 1.5.12
+2024-04-08 17:37:42 App is up to date.
+2024-04-12 19:26:47 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-04-12 19:26:47 Checking for update using Github
+2024-04-12 19:26:48 Success.
+2024-04-12 19:26:48 Latest version is 1.5.12
+2024-04-12 19:26:48 App is up to date.
+2024-04-12 20:26:47 Checking for update using Github
+2024-04-12 20:26:47 Success.
+2024-04-12 20:26:47 Latest version is 1.5.12
+2024-04-12 20:26:47 App is up to date.
+2024-04-12 21:26:47 Checking for update using Github
+2024-04-12 21:26:48 Success.
+2024-04-12 21:26:48 Latest version is 1.5.12
+2024-04-12 21:26:48 App is up to date.
+2024-04-15 10:15:31 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-04-15 10:15:32 Checking for update using Github
+2024-04-15 10:15:32 Success.
+2024-04-15 10:15:32 Latest version is 1.5.12
+2024-04-15 10:15:32 App is up to date.
+2024-04-18 02:26:22 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-04-18 02:26:22 Checking for update using Github
+2024-04-18 02:26:22 Success.
+2024-04-18 02:26:22 Latest version is 1.5.12
+2024-04-18 02:26:22 App is up to date.
+2024-04-18 03:26:22 Checking for update using Github
+2024-04-18 03:26:22 Success.
+2024-04-18 03:26:22 Latest version is 1.5.12
+2024-04-18 03:26:22 App is up to date.
+2024-04-18 04:26:22 Checking for update using Github
+2024-04-18 04:26:22 Success.
+2024-04-18 04:26:22 Latest version is 1.5.12
+2024-04-18 04:26:22 App is up to date.
+2024-04-19 11:20:53 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-04-19 11:20:53 Checking for update using Github
+2024-04-19 11:20:54 Success.
+2024-04-19 11:20:54 Latest version is 1.5.12
+2024-04-19 11:20:54 App is up to date.
+2024-04-19 12:20:53 Checking for update using Github
+2024-04-19 12:20:53 Success.
+2024-04-19 12:20:53 Latest version is 1.5.12
+2024-04-19 12:20:53 App is up to date.
+2024-04-19 13:20:53 Checking for update using Github
+2024-04-19 13:20:53 Success.
+2024-04-19 13:20:53 Latest version is 1.5.12
+2024-04-19 13:20:53 App is up to date.
+2024-04-19 14:20:53 Checking for update using Github
+2024-04-19 14:20:53 Success.
+2024-04-19 14:20:53 Latest version is 1.5.12
+2024-04-19 14:20:53 App is up to date.
+2024-04-19 15:20:53 Checking for update using Github
+2024-04-19 15:20:53 Success.
+2024-04-19 15:20:53 Latest version is 1.5.12
+2024-04-19 15:20:53 App is up to date.
+2024-04-19 16:20:53 Checking for update using Github
+2024-04-19 16:20:54 Success.
+2024-04-19 16:20:54 Latest version is 1.5.12
+2024-04-19 16:20:54 App is up to date.
+2024-04-19 17:20:53 Checking for update using Github
+2024-04-19 17:20:54 Success.
+2024-04-19 17:20:54 Latest version is 1.5.12
+2024-04-19 17:20:54 App is up to date.
+2024-04-19 19:19:29 Checking for update using Github
+2024-04-19 19:19:29 Success.
+2024-04-19 19:19:29 Latest version is 1.5.12
+2024-04-19 19:19:29 App is up to date.
+2024-04-19 20:19:29 Checking for update using Github
+2024-04-19 20:19:49 Failed to check for update using Github (net::ERR_NAME_NOT_RESOLVED)
+2024-04-19 20:19:49 Checking for update using obsidian.md
+2024-04-19 20:19:56 Failed to check for update using obsidian.md (Unexpected end of JSON input)
+2024-04-19 21:19:29 Checking for update using Github
+2024-04-19 21:19:30 Success.
+2024-04-19 21:19:30 Latest version is 1.5.12
+2024-04-19 21:19:30 App is up to date.
+2024-04-19 22:19:29 Checking for update using Github
+2024-04-19 22:19:29 Success.
+2024-04-19 22:19:29 Latest version is 1.5.12
+2024-04-19 22:19:29 App is up to date.
+2024-04-19 23:19:29 Checking for update using Github
+2024-04-19 23:19:29 Success.
+2024-04-19 23:19:29 Latest version is 1.5.12
+2024-04-19 23:19:29 App is up to date.
+2024-04-21 12:12:14 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-04-21 12:12:15 Checking for update using Github
+2024-04-21 12:12:15 Success.
+2024-04-21 12:12:15 Latest version is 1.5.12
+2024-04-21 12:12:15 App is up to date.
+2024-04-21 13:12:14 Checking for update using Github
+2024-04-21 13:12:14 Success.
+2024-04-21 13:12:14 Latest version is 1.5.12
+2024-04-21 13:12:14 App is up to date.
+2024-04-22 05:28:28 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-04-22 05:28:28 Checking for update using Github
+2024-04-22 05:28:29 Success.
+2024-04-22 05:28:29 Latest version is 1.5.12
+2024-04-22 05:28:29 App is up to date.
+2024-04-22 06:28:28 Checking for update using Github
+2024-04-22 06:28:28 Success.
+2024-04-22 06:28:28 Latest version is 1.5.12
+2024-04-22 06:28:28 App is up to date.
+2024-04-22 07:48:13 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-04-22 07:48:13 Checking for update using Github
+2024-04-22 07:48:14 Success.
+2024-04-22 07:48:14 Latest version is 1.5.12
+2024-04-22 07:48:14 App is up to date.
+2024-04-22 08:48:13 Checking for update using Github
+2024-04-22 08:48:13 Success.
+2024-04-22 08:48:13 Latest version is 1.5.12
+2024-04-22 08:48:13 App is up to date.
+2024-04-22 09:48:13 Checking for update using Github
+2024-04-22 09:48:13 Success.
+2024-04-22 09:48:13 Latest version is 1.5.12
+2024-04-22 09:48:13 App is up to date.
+2024-04-22 10:48:13 Checking for update using Github
+2024-04-22 10:48:13 Success.
+2024-04-22 10:48:13 Latest version is 1.5.12
+2024-04-22 10:48:13 App is up to date.
+2024-04-22 11:48:13 Checking for update using Github
+2024-04-22 11:48:19 Success.
+2024-04-22 11:48:19 Latest version is 1.5.12
+2024-04-22 11:48:19 App is up to date.
+2024-04-22 12:48:13 Checking for update using Github
+2024-04-22 12:48:14 Success.
+2024-04-22 12:48:14 Latest version is 1.5.12
+2024-04-22 12:48:14 App is up to date.
+2024-04-22 13:48:13 Checking for update using Github
+2024-04-22 13:48:14 Success.
+2024-04-22 13:48:14 Latest version is 1.5.12
+2024-04-22 13:48:14 App is up to date.
+2024-05-07 03:15:30 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-05-07 03:15:30 Checking for update using Github
+2024-05-07 03:15:30 Success.
+2024-05-07 03:15:30 Latest version is 1.5.12
+2024-05-07 03:15:30 App is up to date.
+2024-05-07 09:14:12 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-05-07 09:14:13 Checking for update using Github
+2024-05-07 09:14:13 Success.
+2024-05-07 09:14:13 Latest version is 1.5.12
+2024-05-07 09:14:13 App is up to date.
+2024-05-07 10:14:13 Checking for update using Github
+2024-05-07 10:14:13 Success.
+2024-05-07 10:14:13 Latest version is 1.5.12
+2024-05-07 10:14:13 App is up to date.
+2024-05-07 11:14:13 Checking for update using Github
+2024-05-07 11:14:13 Success.
+2024-05-07 11:14:13 Latest version is 1.5.12
+2024-05-07 11:14:13 App is up to date.
+2024-05-07 16:24:19 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-05-07 16:24:20 Checking for update using Github
+2024-05-07 16:24:20 Success.
+2024-05-07 16:24:20 Latest version is 1.5.12
+2024-05-07 16:24:20 App is up to date.
+2024-05-07 18:08:02 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-05-07 18:08:03 Checking for update using Github
+2024-05-07 18:08:03 Success.
+2024-05-07 18:08:03 Latest version is 1.5.12
+2024-05-07 18:08:03 App is up to date.
+2024-05-07 19:08:03 Checking for update using Github
+2024-05-07 19:08:03 Success.
+2024-05-07 19:08:03 Latest version is 1.5.12
+2024-05-07 19:08:03 App is up to date.
+2024-05-07 20:08:03 Checking for update using Github
+2024-05-07 20:08:03 Success.
+2024-05-07 20:08:03 Latest version is 1.5.12
+2024-05-07 20:08:03 App is up to date.
+2024-05-14 21:07:01 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-05-14 21:07:02 Checking for update using Github
+2024-05-14 21:07:02 Success.
+2024-05-14 21:07:02 Latest version is 1.5.12
+2024-05-14 21:07:02 App is up to date.
+2024-05-15 09:52:31 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-05-15 09:52:31 Checking for update using Github
+2024-05-15 09:52:32 Success.
+2024-05-15 09:52:32 Latest version is 1.5.12
+2024-05-15 09:52:32 App is up to date.
+2024-05-24 15:27:33 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-05-24 15:27:33 Checking for update using Github
+2024-05-24 15:27:35 Success.
+2024-05-24 15:27:35 Latest version is 1.5.12
+2024-05-24 15:27:35 App is up to date.
+2024-05-24 17:27:10 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-05-24 17:27:11 Checking for update using Github
+2024-05-24 17:27:11 Success.
+2024-05-24 17:27:11 Latest version is 1.5.12
+2024-05-24 17:27:11 App is up to date.
+2024-05-25 09:31:16 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-05-25 09:31:17 Checking for update using Github
+2024-05-25 09:31:17 Success.
+2024-05-25 09:31:17 Latest version is 1.5.12
+2024-05-25 09:31:17 App is up to date.
+2024-05-25 10:31:16 Checking for update using Github
+2024-05-25 10:31:17 Success.
+2024-05-25 10:31:17 Latest version is 1.5.12
+2024-05-25 10:31:17 App is up to date.
+2024-05-25 11:59:27 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-05-25 11:59:28 Checking for update using Github
+2024-05-25 11:59:28 Success.
+2024-05-25 11:59:28 Latest version is 1.5.12
+2024-05-25 11:59:28 App is up to date.
+2024-05-25 12:59:27 Checking for update using Github
+2024-05-25 12:59:27 Success.
+2024-05-25 12:59:27 Latest version is 1.5.12
+2024-05-25 12:59:27 App is up to date.
+2024-05-25 13:59:27 Checking for update using Github
+2024-05-25 13:59:28 Success.
+2024-05-25 13:59:28 Latest version is 1.5.12
+2024-05-25 13:59:28 App is up to date.
+2024-05-29 17:53:18 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-05-29 17:53:19 Checking for update using Github
+2024-05-29 17:53:19 Success.
+2024-05-29 17:53:19 Latest version is 1.5.12
+2024-05-29 17:53:19 App is up to date.
+2024-06-11 20:50:28 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.5.12.asar
+2024-06-11 20:50:28 Checking for update using Github
+2024-06-11 20:50:28 Success.
+2024-06-11 20:50:28 Latest version is 1.6.3
+2024-06-11 20:50:28 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.3/obsidian-1.6.3.asar.gz
+2024-06-11 20:50:35 Verifying hash & signature. Size= 8794449
+2024-06-11 20:50:35 Saving file
+2024-06-11 20:50:35 Update complete.
+2024-06-11 21:50:28 Checking for update using Github
+2024-06-11 21:50:28 Success.
+2024-06-11 21:50:28 Latest version is 1.6.3
+2024-06-11 21:50:28 An update is already downloaded.
+2024-06-13 04:23:21 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.3.asar
+2024-06-13 04:23:22 Checking for update using Github
+2024-06-13 04:23:23 Success.
+2024-06-13 04:23:23 Latest version is 1.6.3
+2024-06-13 04:23:23 App is up to date.
+2024-06-15 17:49:42 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.3.asar
+2024-06-15 17:49:43 Checking for update using Github
+2024-06-15 17:49:43 Success.
+2024-06-15 17:49:43 Latest version is 1.6.3
+2024-06-15 17:49:43 App is up to date.
+2024-06-15 18:49:42 Checking for update using Github
+2024-06-15 18:49:43 Success.
+2024-06-15 18:49:43 Latest version is 1.6.3
+2024-06-15 18:49:43 App is up to date.
+2024-06-15 19:32:00 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.3.asar
+2024-06-15 19:32:00 Checking for update using Github
+2024-06-15 19:49:42 Checking for update using Github
+2024-06-15 19:49:43 Success.
+2024-06-15 19:49:43 Latest version is 1.6.3
+2024-06-15 19:49:43 App is up to date.
+2024-06-25 09:50:48 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.3.asar
+2024-06-25 09:50:48 Checking for update using Github
+2024-06-25 09:50:56 Success.
+2024-06-25 09:50:56 Latest version is 1.6.3
+2024-06-25 09:50:56 App is up to date.
+2024-07-12 10:27:04 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.3.asar
+2024-07-12 10:27:05 Checking for update using Github
+2024-07-12 10:27:05 Success.
+2024-07-12 10:27:05 Latest version is 1.6.5
+2024-07-12 10:27:05 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.6.5/obsidian-1.6.5.asar.gz
+2024-07-12 10:27:12 Verifying hash & signature. Size= 8839622
+2024-07-12 10:27:12 Saving file
+2024-07-12 10:27:12 Update complete.
+2024-07-12 10:35:02 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:35:02 Checking for update using Github
+2024-07-12 10:36:02 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:36:02 Checking for update using Github
+2024-07-12 10:36:03 Success.
+2024-07-12 10:36:03 Latest version is 1.6.5
+2024-07-12 10:36:03 App is up to date.
+2024-07-12 10:36:34 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:36:34 Checking for update using Github
+2024-07-12 10:36:34 Success.
+2024-07-12 10:36:34 Latest version is 1.6.5
+2024-07-12 10:36:34 App is up to date.
+2024-07-12 10:37:48 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:37:49 Checking for update using Github
+2024-07-12 10:37:49 Success.
+2024-07-12 10:37:49 Latest version is 1.6.5
+2024-07-12 10:37:49 App is up to date.
+2024-07-12 10:39:29 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:39:29 Checking for update using Github
+2024-07-12 10:39:30 Success.
+2024-07-12 10:39:30 Latest version is 1.6.5
+2024-07-12 10:39:30 App is up to date.
+2024-07-12 10:39:43 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:39:44 Checking for update using Github
+2024-07-12 10:39:44 Success.
+2024-07-12 10:39:44 Latest version is 1.6.5
+2024-07-12 10:39:44 App is up to date.
+2024-07-12 10:40:17 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:40:18 Checking for update using Github
+2024-07-12 10:40:34 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:40:56 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:41:17 Checking for update using Github
+2024-07-12 10:41:17 Success.
+2024-07-12 10:41:17 Latest version is 1.6.5
+2024-07-12 10:41:17 App is up to date.
+2024-07-12 10:46:09 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:46:10 Checking for update using Github
+2024-07-12 10:46:10 Success.
+2024-07-12 10:46:10 Latest version is 1.6.5
+2024-07-12 10:46:10 App is up to date.
+2024-07-12 10:46:26 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:46:26 Checking for update using Github
+2024-07-12 10:46:32 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:46:33 Checking for update using Github
+2024-07-12 10:46:33 Success.
+2024-07-12 10:46:33 Latest version is 1.6.5
+2024-07-12 10:46:33 App is up to date.
+2024-07-12 10:56:16 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 10:56:17 Checking for update using Github
+2024-07-12 10:56:17 Success.
+2024-07-12 10:56:17 Latest version is 1.6.5
+2024-07-12 10:56:17 App is up to date.
+2024-07-12 17:20:18 Loading updated app package /home/arslan/.config/obsidian/obsidian-1.6.5.asar
+2024-07-12 17:20:19 Checking for update using Github
+2024-07-12 17:20:20 Success.
+2024-07-12 17:20:20 Latest version is 1.6.5
+2024-07-12 17:20:20 App is up to date.
